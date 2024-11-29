@@ -15,7 +15,6 @@ class Suprematism(QWidget):
         self.cord = (None, None)
         self.flag = False
         self.setMouseTracking(True)
-
         self.initUI()
 
     def initUI(self):
